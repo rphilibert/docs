@@ -19,7 +19,7 @@ Retrouvez nos différents [guides Exchange](https://www.ovh.com/fr/emails/hosted
 Cette interface est très pratique si vous ne possédez pas de logiciel de messagerie compatible pour la configuration et l'utilisation d'un compte Exchange.
 
 
-### Ou et comment se connecter a OWA ?
+### Où et comment se connecter à OWA ?
 
 L'adresse de messagerie correspondra à l'adresse Exchange complète que vous souhaitez consulter.
 
@@ -37,7 +37,7 @@ ou
 
 ou
 
-[https://ex3.mail.ovh.net](https://ex2.mail.ovh.net){.external}
+[https://ex3.mail.ovh.net](https://ex3.mail.ovh.net){.external}
 
 
 **Offre Private Exchange** :  
@@ -53,7 +53,7 @@ Lorsque vous vous connecterez pour la première fois à  **OWA**  il sera néces
 ![emails](images/2885.png){.thumbnail}
 
 
-## Interface et fonctionnalites
+## Interface et fonctionnalités
 
 ### Messagerie
 Par défaut une fois connecté, la section messagerie est accessible.
